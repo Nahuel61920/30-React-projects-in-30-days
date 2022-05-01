@@ -1,0 +1,38 @@
+.main-slider-wrapper {
+    font-family: "Patrick Hand", cursive;
+    background: url(dbs.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.swiper-container {
+    width: 100%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-top: 3rem;
+}
+
+.swiper-slide {
+    margin-top: 3rem;
+    display: grid;
+    text-align: center;
+    padding: 0.5rem 1rem; 
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); 
+    width: 18.75rem;
+    height: 22.75rem;
+    color: #fff;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 6rem;
+    justify-self: center;
+    border-radius: 50%;
+    margin-top: 0.6rem;
+}
+
+P {
+    color: #fff;
+}
