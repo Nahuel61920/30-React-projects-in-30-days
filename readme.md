@@ -16,6 +16,7 @@
 
 - [Day 01 - Touch Slider](#id01)
 - [Day 02 - React Navbar](#id02)
+- [Day 03 - Animations](#id03)
 
 <br>
 
@@ -34,5 +35,15 @@
 <img src="./Challenges/Day-02/day02.gif" alt="day02">
 
 - [Repository](https://github.com/Nahuel61920/React-navbar)
+
+<br>
+
+<br>
+
+## Day 02 - Animations <a name="id03"></a>
+
+<img src="./Challenges/Day-03/day03.gif" alt="day03">
+
+- [Repository](https://github.com/Nahuel61920/Animations)
 
 <br>
