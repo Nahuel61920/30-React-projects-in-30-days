@@ -17,6 +17,7 @@
 - [Day 01 - Touch Slider](#id01)
 - [Day 02 - React Navbar](#id02)
 - [Day 03 - Animations](#id03)
+- [Day 04 - Accordion](#id04)
 
 <br>
 
@@ -40,10 +41,20 @@
 
 <br>
 
-## Day 02 - Animations <a name="id03"></a>
+## Day 03 - Animations <a name="id03"></a>
 
 <img src="./Challenges/Day-03/day03.gif" alt="day03">
 
 - [Repository](https://github.com/Nahuel61920/Animations)
+
+<br>
+
+<br>
+
+## Day 04 - Accordion <a name="id04"></a>
+
+<img src="./Challenges/Day-04/day04.gif" alt="day04">
+
+- [Repository](https://github.com/Nahuel61920/Accordion)
 
 <br>
