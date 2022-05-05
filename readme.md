@@ -18,6 +18,7 @@
 - [Day 02 - React Navbar](#id02)
 - [Day 03 - Animations](#id03)
 - [Day 04 - Accordion](#id04)
+- [Day 05 - Particles](#id05)
 
 <br>
 
@@ -56,5 +57,15 @@
 <img src="./Challenges/Day-04/day04.gif" alt="day04">
 
 - [Repository](https://github.com/Nahuel61920/Accordion)
+
+<br>
+
+<br>
+
+## Day 05 - Particles <a name="id05"></a>
+
+<img src="./Challenges/Day-05/day05.gif" alt="day05">
+
+- [Repository](https://github.com/Nahuel61920/Particles)
 
 <br>
