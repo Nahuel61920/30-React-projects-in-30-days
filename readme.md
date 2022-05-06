@@ -19,6 +19,7 @@
 - [Day 03 - Animations](#id03)
 - [Day 04 - Accordion](#id04)
 - [Day 05 - Particles](#id05)
+- [Day 05 - Typed](#id06)
 
 <br>
 
@@ -67,5 +68,13 @@
 <img src="./Challenges/Day-05/day05.gif" alt="day05">
 
 - [Repository](https://github.com/Nahuel61920/Particles)
+
+<br>
+
+## Day 06 - Typed <a name="id06"></a>
+
+<img src="./Challenges/Day-06/day06.gif" alt="day06">
+
+- [Repository](https://github.com/Nahuel61920/Typed)
 
 <br>
