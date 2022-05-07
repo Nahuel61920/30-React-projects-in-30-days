@@ -19,7 +19,8 @@
 - [Day 03 - Animations](#id03)
 - [Day 04 - Accordion](#id04)
 - [Day 05 - Particles](#id05)
-- [Day 05 - Typed](#id06)
+- [Day 06 - Typed](#id06)
+- [Day 07 - Spinners](#id07)
 
 <br>
 
@@ -76,5 +77,13 @@
 <img src="./Challenges/Day-06/day06.gif" alt="day06">
 
 - [Repository](https://github.com/Nahuel61920/Typed)
+
+<br>
+
+## Day 07 - Spinners <a name="id07"></a>
+
+<img src="./Challenges/Day-07/day07.gif" alt="day07">
+
+- [Repository](https://github.com/Nahuel61920/Spinners)
 
 <br>
