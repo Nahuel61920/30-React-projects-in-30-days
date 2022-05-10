@@ -22,6 +22,7 @@
 - [Day 06 - Typed](#id06)
 - [Day 07 - Spinners](#id07)
 - [Day 08 - Scroll To Top](#id08)
+- [Day 09 - Dark Mode](#id09)
 
 <br>
 
@@ -94,5 +95,13 @@
 <img src="./Challenges/Day-08/day08.gif" alt="day08">
 
 - [Repository](https://github.com/Nahuel61920/ScrollToTop)
+
+<br>
+
+## Day 09 - Scroll To Top <a name="id09"></a>
+
+<img src="./Challenges/Day-09/day09.gif" alt="day09">
+
+- [Repository](https://github.com/Nahuel61920/Dark-Mode-React)
 
 <br>

@@ -1,0 +1,9 @@
+.button {
+  position: fixed;
+  top: 26%;
+  right: 20%;
+}
+
+.button img {
+  width: 30px;
+}
