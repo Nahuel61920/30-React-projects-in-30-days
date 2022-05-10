@@ -21,6 +21,7 @@
 - [Day 05 - Particles](#id05)
 - [Day 06 - Typed](#id06)
 - [Day 07 - Spinners](#id07)
+- [Day 08 - Scroll To Top](#id08)
 
 <br>
 
@@ -85,5 +86,13 @@
 <img src="./Challenges/Day-07/day07.gif" alt="day07">
 
 - [Repository](https://github.com/Nahuel61920/Spinners)
+
+<br>
+
+## Day 08 - Scroll To Top <a name="id08"></a>
+
+<img src="./Challenges/Day-08/day08.gif" alt="day08">
+
+- [Repository](https://github.com/Nahuel61920/ScrollToTop)
 
 <br>
