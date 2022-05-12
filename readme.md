@@ -23,6 +23,7 @@
 - [Day 07 - Spinners](#id07)
 - [Day 08 - Scroll To Top](#id08)
 - [Day 09 - Dark Mode](#id09)
+- [Day 10 - Dark Mode](#id10)
 
 <br>
 
@@ -98,10 +99,18 @@
 
 <br>
 
-## Day 09 - Scroll To Top <a name="id09"></a>
+## Day 09 - Dark Mode <a name="id09"></a>
 
 <img src="./Challenges/Day-09/day09.gif" alt="day09">
 
 - [Repository](https://github.com/Nahuel61920/Dark-Mode-React)
+
+<br>
+
+## Day 10 - Modal <a name="id10"></a>
+
+<img src="./Challenges/Day-10/day10.gif" alt="day10">
+
+- [Repository](https://github.com/Nahuel61920/Modal-React)
 
 <br>
