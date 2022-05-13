@@ -23,7 +23,8 @@
 - [Day 07 - Spinners](#id07)
 - [Day 08 - Scroll To Top](#id08)
 - [Day 09 - Dark Mode](#id09)
-- [Day 10 - Dark Mode](#id10)
+- [Day 10 - Modal](#id10)
+- [Day 11 - Digital Clock](#id11)
 
 <br>
 
@@ -112,5 +113,13 @@
 <img src="./Challenges/Day-10/day10.gif" alt="day10">
 
 - [Repository](https://github.com/Nahuel61920/Modal-React)
+
+<br>
+
+## Day 11 - Digital Clock <a name="id11"></a>
+
+<img src="./Challenges/Day-11/day11.gif" alt="day11">
+
+- [Repository](https://github.com/Nahuel61920/Digital-Clock)
 
 <br>

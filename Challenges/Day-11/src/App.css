@@ -1,0 +1,41 @@
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: 500;
+  color: #1674cc;
+}
+
+.clock,
+.screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clock {
+  width: 25em;
+  height: 12em;
+  background: #0b0d0e;
+  border-radius: 20px;
+}
+
+.screen {
+  width: 23em;
+  height: 10em;
+  border: 4px solid #000;
+  border-radius: 15px;
+  background: linear-gradient(
+    -45deg,
+    #1f272b 0%,
+    #1f272b 50%,
+    #1b1f21 50%,
+    #1b1f21 100%
+  );
+}
