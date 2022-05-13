@@ -25,6 +25,7 @@
 - [Day 09 - Dark Mode](#id09)
 - [Day 10 - Modal](#id10)
 - [Day 11 - Digital Clock](#id11)
+- [Day 12 - PDF Generator](#id12)
 
 <br>
 
@@ -121,5 +122,13 @@
 <img src="./Challenges/Day-11/day11.gif" alt="day11">
 
 - [Repository](https://github.com/Nahuel61920/Digital-Clock)
+
+<br>
+
+## Day 12 - PDF Generator <a name="id12"></a>
+
+<img src="./Challenges/Day-12/day12.gif" alt="day12">
+
+- [Repository](https://github.com/Nahuel61920/PDF-Generator)
 
 <br>
