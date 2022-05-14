@@ -26,6 +26,7 @@
 - [Day 10 - Modal](#id10)
 - [Day 11 - Digital Clock](#id11)
 - [Day 12 - PDF Generator](#id12)
+- [Day 13 - Memorama react](#id13)
 
 <br>
 
@@ -130,5 +131,13 @@
 <img src="./Challenges/Day-12/day12.gif" alt="day12">
 
 - [Repository](https://github.com/Nahuel61920/PDF-Generator)
+
+<br>
+
+## Day 13 - Memorama React <a name="id13"></a>
+
+<img src="./Challenges/Day-13/day13.gif" alt="day13">
+
+- [Repository](https://github.com/Nahuel61920/Memorama-react)
 
 <br>
