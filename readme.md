@@ -27,6 +27,7 @@
 - [Day 11 - Digital Clock](#id11)
 - [Day 12 - PDF Generator](#id12)
 - [Day 13 - Memorama react](#id13)
+- [Day 14 - Lazy Loading](#id14)
 
 <br>
 
@@ -139,5 +140,13 @@
 <img src="./Challenges/Day-13/day13.gif" alt="day13">
 
 - [Repository](https://github.com/Nahuel61920/Memorama-react)
+
+<br>
+
+## Day 14 - Lazy Loading <a name="id14"></a>
+
+<img src="./Challenges/Day-14/day14.gif" alt="day14">
+
+- [Repository](https://github.com/Nahuel61920/Lazy-Loading)
 
 <br>
