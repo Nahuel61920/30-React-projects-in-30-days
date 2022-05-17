@@ -1,0 +1,10 @@
+header {
+  padding: 0.5rem;
+  background: rgb(1, 114, 58);
+  margin-bottom: 1rem;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+}
