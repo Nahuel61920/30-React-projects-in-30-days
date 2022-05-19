@@ -29,6 +29,7 @@
 - [Day 13 - Memorama react](#id13)
 - [Day 14 - Lazy Loading](#id14)
 - [Day 15 - Excel in React](#id15)
+- [Day 16 - Color Generator](#id16)
 
 <br>
 
@@ -172,10 +173,18 @@
 
 <br>
 
-## Day 15 - Memorama React <a name="id15"></a>
+## Day 15 - Excel in React <a name="id15"></a>
 
 <img src="./Challenges/Day-15/day15.gif" alt="day15">
 
 - [Repository](https://github.com/Nahuel61920/Excel-in-React)
+
+<br>
+
+## Day 16 - Color Generator <a name="id16"></a>
+
+<img src="./Challenges/Day-16/day16.png" alt="day16">
+
+- [Repository](https://github.com/Nahuel61920/Color-Generator)
 
 <br>
