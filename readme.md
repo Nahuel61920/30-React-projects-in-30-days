@@ -30,6 +30,7 @@
 - [Day 14 - Lazy Loading](#id14)
 - [Day 15 - Excel in React](#id15)
 - [Day 16 - Color Generator](#id16)
+- [Day 17 - Lorem ipsum Generator](#id17)
 
 <br>
 
@@ -186,5 +187,13 @@
 <img src="./Challenges/Day-16/day16.png" alt="day16">
 
 - [Repository](https://github.com/Nahuel61920/Color-Generator)
+
+<br>
+
+## Day 17 - Lorem ipsum generator <a name="id17"></a    >
+
+<img src="./Challenges/Day-17/day17.png" alt="day17">
+
+- [Repository](https://github.com/Nahuel61920/Lorem-ipsum-generator)
 
 <br>
