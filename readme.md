@@ -31,7 +31,8 @@
 - [Day 15 - Excel in React](#id15)
 - [Day 16 - Color Generator](#id16)
 - [Day 17 - Lorem ipsum Generator](#id17)
-- [Day 18 - Lorem ipsum Generator](#id18)
+- [Day 18 - Grocery list](#id18)
+- [Day 19 - BMI Calculator](#id19)
 
 <br>
 
@@ -204,5 +205,13 @@
 <img src="./Challenges/Day-18/day18.gif" alt="day18">
 
 - [Repository](https://github.com/Nahuel61920/Grocery-list)
+
+<br>
+
+## Day 19 - BMI Calculator <a name="id19"></a    >
+
+<img src="./Challenges/Day-19/day19.gif" alt="day19">
+
+- [Repository](https://github.com/Nahuel61920/BMI-Calculator)
 
 <br>
