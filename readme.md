@@ -33,6 +33,7 @@
 - [Day 17 - Lorem ipsum Generator](#id17)
 - [Day 18 - Grocery list](#id18)
 - [Day 19 - BMI Calculator](#id19)
+- [Day 20 - QR Generator](#id20)
 
 <br>
 
@@ -213,5 +214,13 @@
 <img src="./Challenges/Day-19/day19.gif" alt="day19">
 
 - [Repository](https://github.com/Nahuel61920/BMI-Calculator)
+
+<br>
+
+## Day 20 - QR Generator <a name="id20"></a    >
+
+<img src="./Challenges/Day-20/day20.gif" alt="day20">
+
+- [Repository](https://github.com/Nahuel61920/QR-Generator)
 
 <br>

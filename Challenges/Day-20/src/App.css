@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.accordion-container {
+  max-width: 50rem;
+  margin: 1rem auto;
+}
+
+.accordion-container .accordion {
+  background: #fff;
+  margin-bottom: 1.5rem;
+  -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+          box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+}
+
+.accordion-container .accordion:last-child {
+  margin-bottom: .5rem;
+}
+
+.accordion-container .accordion.active .accordion-heading {
+  background: rgb(0, 20, 85);
+}
+
+.accordion-container .accordion.active .accordion-heading h3 {
+  color: #fff;
+}
+
+.accordion-container .accordion.active .accordion-heading i {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+  color: #fff;
+}
+
+.accordion-container .accordion.active .accordioin-content {
+  display: block;
+  color: rgb(0, 20, 85);
+}
+
+.accordion-container .accordion .accordion-heading {
+  padding: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 1rem;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background: #fff;
+  cursor: pointer;
+}
+
+.accordion-container .accordion .accordion-heading h3,
+.accordion-container .accordion .accordion-heading i {
+  font-size: 1.5rem;
+  color: rgb(0, 20, 85);
+  text-transform: none;
+}
+
+.accordion-container .accordioin-content {
+  padding: 1rem;
+  font-size: 1.2rem;
+  line-height: 2;
+  color: #666;
+  text-transform: none;
+  display: none;
+  -webkit-animation: fadeIn .2s linear;
+          animation: fadeIn .2s linear;
+}
