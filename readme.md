@@ -34,6 +34,7 @@
 - [Day 18 - Grocery list](#id18)
 - [Day 19 - BMI Calculator](#id19)
 - [Day 20 - QR Generator](#id20)
+- [Day 21 - Gifs App](#id21)
 
 <br>
 
@@ -222,5 +223,13 @@
 <img src="./Challenges/Day-20/day20.gif" alt="day20">
 
 - [Repository](https://github.com/Nahuel61920/QR-Generator)
+
+<br>
+
+## Day 21 - Gifs App <a name="id21"></a    >
+
+<img src="./Challenges/Day-21/day21.gif" alt="day21">
+
+- [Repository](https://github.com/Nahuel61920/Gifs-App)
 
 <br>

@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #e670e6;
+}
+
+.App {
+  text-align: center;
+  margin-top: 6%;
+}
+
+.container-gifs {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-top: 4%;
+  justify-content: center;
+  padding: 0 5%;
+}
+
+.container-gifs div img {
+  border-radius: 18px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+input[type="text"] {
+  font-size: inherit;
+  padding: 12px 20px;
+  outline: none;
+  border: solid 0px #000;
+  border-radius: 20px;
+  width: 300px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.error {
+  color: red;
+}
