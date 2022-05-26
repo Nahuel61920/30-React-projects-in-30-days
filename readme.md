@@ -35,6 +35,7 @@
 - [Day 19 - BMI Calculator](#id19)
 - [Day 20 - QR Generator](#id20)
 - [Day 21 - Gifs App](#id21)
+- [Day 22 - Git Users](#id22)
 
 <br>
 
@@ -231,5 +232,13 @@
 <img src="./Challenges/Day-21/day21.gif" alt="day21">
 
 - [Repository](https://github.com/Nahuel61920/Gifs-App)
+
+<br>
+
+## Day 22 - Git Users <a name="id22"></a    >
+
+<img src="./Challenges/Day-22/day22.gif" alt="day22">
+
+- [Repository](https://github.com/Nahuel61920/Git-Users)
 
 <br>

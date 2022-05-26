@@ -1,0 +1,18 @@
+nav.navigation {
+  height: 50px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.navigation h1 {
+  width: 80%;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  color: #857ecd;
+  font-size: 25px;
+  text-transform: capitalize;
+  letter-spacing: 3px;
+  font-weight: 900;
+  align-items: center;
+}
