@@ -37,6 +37,7 @@
 - [Day 21 - Gifs App](#id21)
 - [Day 22 - Git Users](#id22)
 - [Day 23 - Step Form](#id23)
+- [Day 23 - Graphics ChartJS](#id23)
 
 <br>
 
@@ -249,5 +250,13 @@
 <img src="./Challenges/Day-23/day23.gif" alt="day23">
 
 - [Repository](https://github.com/Nahuel61920/Step-Form)
+
+<br>
+
+## Day 24 - Graphics ChartJS <a name="id24"></a    >
+
+<img src="./Challenges/Day-24/day24.gif" alt="day24">
+
+- [Repository](https://github.com/Nahuel61920/Graphics-ChartJS)
 
 <br>
