@@ -39,6 +39,7 @@
 - [Day 23 - Step Form](#id23)
 - [Day 24 - Graphics ChartJS](#id24)
 - [Day 25 - React Bootstrap](#id25)
+- [Day 26 - React Auth0](#id26)
 
 <br>
 
@@ -262,10 +263,18 @@
 
 <br>
 
-## Day 24 - React Bootstrap <a name="id25"></a    >
+## Day 25 - React Bootstrap <a name="id25"></a    >
 
 <img src="./Challenges/Day-25/day25.png" alt="day25">
 
 - [Repository](https://github.com/Nahuel61920/React-Bootstrap)
+
+<br>
+
+## Day 26 - React Auth0 <a name="id26"></a    >
+
+<img src="./Challenges/Day-26/day26.png" alt="day26">
+
+- [Repository](https://github.com/Nahuel61920/React-Auth0)
 
 <br>
