@@ -40,6 +40,7 @@
 - [Day 24 - Graphics ChartJS](#id24)
 - [Day 25 - React Bootstrap](#id25)
 - [Day 26 - React Auth0](#id26)
+- [Day 27 - React Paginate](#id27)
 
 <br>
 
@@ -273,8 +274,16 @@
 
 ## Day 26 - React Auth0 <a name="id26"></a    >
 
-<img src="./Challenges/Day-26/day26.png" alt="day26">
+<img src="./Challenges/Day-26/day26.gif" alt="day26">
 
 - [Repository](https://github.com/Nahuel61920/React-Auth0)
+
+<br>
+
+## Day 27 - React Paginate <a name="id27"></a    >
+
+<img src="./Challenges/Day-27/day27.gif" alt="day27">
+
+- [Repository](https://github.com/Nahuel61920/React-Paginate)
 
 <br>
