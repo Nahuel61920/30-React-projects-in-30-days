@@ -41,6 +41,7 @@
 - [Day 25 - React Bootstrap](#id25)
 - [Day 26 - React Auth0](#id26)
 - [Day 27 - React Paginate](#id27)
+- [Day 28 - React Paginate](#id28)
 
 <br>
 
@@ -285,5 +286,13 @@
 <img src="./Challenges/Day-27/day27.gif" alt="day27">
 
 - [Repository](https://github.com/Nahuel61920/React-Paginate)
+
+<br>
+
+## Day 28 - Cloudinary React <a name="id28"></a    >
+
+<img src="./Challenges/Day-28/day28.gif" alt="day28">
+
+- [Repository](https://github.com/Nahuel61920/Cloudinary-React)
 
 <br>
